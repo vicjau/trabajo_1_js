@@ -1,5 +1,5 @@
 //
-/*for(let i = 0; i<3; i++){
+for(let i = 0; i<3; i++){
     let numero = Number(prompt("Ingrese un numero"));
     console.log(numero * 2);
 }
@@ -16,7 +16,7 @@ for(let i = 0; i<4; i++){
         console.log("Es menor, no puede ingresar")
         break
     }
-}*/
+}
 
 //
 
